@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @brmartinucci
 - 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning python
+- 🌱 I’m currently work as a scientific sales specialist at Hospital Israelita Albert Einstein | :Varsomics:
+
 - 💞️ I’m looking to collaborate on bioinformatics projects
 - 📫 How to reach me brmartinucci@gmail.com
 
